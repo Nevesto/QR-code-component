@@ -1,7 +1,7 @@
 # Frontend Mentor - QR code component
 
-~ Oferecido por (https://www.frontendmentor.io) desenvolvido por Guilherme Jorge(Nevest).
-![Comunidade de desenvolvedores:](https://www.labzone.com.br/)
+~ Oferecido por (https://www.frontendmentor.io) desenvolvido por Guilherme Jorge(Nevest) da 
+![LabZone:](https://www.labzone.com.br/)
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
